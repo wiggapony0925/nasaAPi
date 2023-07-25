@@ -18,7 +18,7 @@ url = 'https://api.nasa.gov/planetary/apod'
 
 parameters = {
     'api_key': api_key,
-    'date': '2022-02-22',
+    'date': '2007-04-02',
     'thumbs': True,
 }
 
